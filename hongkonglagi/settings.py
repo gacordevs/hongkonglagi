@@ -69,7 +69,7 @@ ITEM_PIPELINES = {
     'hongkonglagi.pipelines.MySQLPipeline': 1,  # Replace 'your_project_name' with your actual project name
 }
 
-MYSQL_HOST = '128.199.195.62'
+MYSQL_HOST = 'localhost'
 MYSQL_USER = 'public_admin'
 MYSQL_PASSWORD = 'Publicadmin123#'
 MYSQL_DB = 'hongkong'
